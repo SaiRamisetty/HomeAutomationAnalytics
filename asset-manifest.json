@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HomeAutomationAnalytics/static/css/main.104c0ca2.css",
+    "main.js": "/HomeAutomationAnalytics/static/js/main.dc75dcfa.js",
+    "static/media/airquality.jpg": "/HomeAutomationAnalytics/static/media/airquality.2d7d78a66f4d91f234c6.jpg",
+    "static/media/image.png": "/HomeAutomationAnalytics/static/media/image.a04ca552f2e88d010e6e.png",
+    "static/media/temp.png": "/HomeAutomationAnalytics/static/media/temp.cd373521e897c21487ee.png",
+    "static/media/bulb_on.png": "/HomeAutomationAnalytics/static/media/bulb_on.311bc58741dd99a73d1b.png",
+    "static/media/bulb_off.png": "/HomeAutomationAnalytics/static/media/bulb_off.17cc99ee5e02dd7bac4e.png",
+    "static/media/Logo.jpeg": "/HomeAutomationAnalytics/static/media/Logo.e36f83849f0a3f8a445d.jpeg",
+    "index.html": "/HomeAutomationAnalytics/index.html",
+    "main.104c0ca2.css.map": "/HomeAutomationAnalytics/static/css/main.104c0ca2.css.map",
+    "main.dc75dcfa.js.map": "/HomeAutomationAnalytics/static/js/main.dc75dcfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.104c0ca2.css",
+    "static/js/main.dc75dcfa.js"
+  ]
+}
