@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home {
+    font-size: 16px;
+    margin: 0px 15px;
+    position: relative;
+    text-decoration: none;
+    color: #333; 
+  
+    
+    &::before {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 2px; 
+      background-color: #011222; 
+      transition: width 0.3s ease; 
+    }
+  
+    
+    &:hover::before {
+      color: #011222;
+      width: 100%; 
+    }
+  }
+  /* Extra small devices (phones, 600px and down) */
